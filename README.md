@@ -1,6 +1,6 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Olá, eu sou o Marcos!
 
-💻 &nbsp; Estagiário de desenvolvimento na [Kestraa](https://www.kestraa.com.br/) <br>
+💻 &nbsp; Desenvolvedor Front-end na [Kestraa](https://www.kestraa.com.br/) <br>
 🏠 &nbsp; Niterói, RJ <br>
 👨‍💻 &nbsp; Trabalhando com: React, Typescript, Redux toolkit, Styled Components, Material UI, Testing Library e Jest <br>
 📚 &nbsp; Estudando: Next, Testing Library e Jest <br>
