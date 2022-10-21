@@ -2,10 +2,10 @@
 
 💻 &nbsp; Desenvolvedor Front-end na [Kestraa](https://www.kestraa.com.br/) <br>
 🏠 &nbsp; Niterói, RJ <br>
-👨‍💻 &nbsp; Trabalhando com: React, Typescript, Redux toolkit, MirageJS, Styled Components, Material UI, Testing Library, Jest e Storybook <br>
-📚 &nbsp; Estudando: Next, Testing Library e Jest <br>
-🚶‍ &nbsp;Próximos passos: Cypress <br>
-👨‍🎓 &nbsp; Estou no 5º período de Análise e Desenvolvimento de Sistemas pela [Unicarioca](https://www.unicarioca.edu.br/)
+👨‍💻 &nbsp; Trabalhando com: React usando JS/TS, Redux saga e toolkit, MirageJS, Styled Components, Material UI, Testing Library, Enzyme, Jest e Storybook <br>
+📚 &nbsp; Estudando: GraphQL <br>
+🚶‍ &nbsp;&nbsp; Próximos passos: Orientação a objetos aplicados em projetos React <br>
+👨‍🎓 &nbsp; Estou no 6º período de Análise e Desenvolvimento de Sistemas pela [Unicarioca](https://www.unicarioca.edu.br/)
 
 ### Redes sociais
 
