@@ -1,11 +1,11 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"> Olá, eu sou o Marcos!
 
 💻 &nbsp; Desenvolvedor Front-end na [Kestraa](https://www.kestraa.com.br/) <br>
-🏠 &nbsp; Niterói, RJ <br>
-👨‍💻 &nbsp; Trabalhando com: React usando JS/TS, Redux saga e toolkit, MirageJS, Styled Components, Material UI, Testing Library, Enzyme, Jest e Storybook <br>
-📚 &nbsp; Estudando: GraphQL <br>
-🚶‍ &nbsp;&nbsp; Próximos passos: Orientação a objetos aplicados em projetos React <br>
-👨‍🎓 &nbsp; Estou no 6º período de Análise e Desenvolvimento de Sistemas pela [Unicarioca](https://www.unicarioca.edu.br/)
+🏠 &nbsp; Ubá, MG <br>
+👨‍💻 &nbsp; Trabalhando com: React usando JS/TS, Redux saga e toolkit, MirageJS, Styled Components, Material UI, Testing Library, Enzyme, Vite, Vitest, Jest, Formik, React Hook Form, Storybook <br>
+📚 &nbsp; Estudando: TDD e Cypress <br>
+🚶‍ &nbsp;&nbsp; Próximos passos: Desenvolvimento mobile <br>
+👨‍🎓 &nbsp; Formado em Análise e Desenvolvimento de Sistemas pela [Unicarioca](https://www.unicarioca.edu.br/)
 
 ### Redes sociais
 
